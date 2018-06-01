@@ -1,3 +1,30 @@
+
+# Projeto Revvista Nativva
+## Se trata de um projeto desenvolvido com ajuda de um curso da Udemy ministrado por Renam Martins, com a finalidade de praticar o uso de estilos e a criação de páginas com reactNative
+
+
+
+
+
+
+### ilustração 01
+![react](https://image.ibb.co/iuAZTJ/ilustracao01.png)
+
+
+### ilustração 02
+![react](https://image.ibb.co/npWxhd/ilustracao02.png)
+
+
+### ilustração 03
+![react](https://image.ibb.co/bEU6ay/ilustracao03.png)
+
+
+
+
+
+## INSTRUÇÕES  OFICIAIS DE COMO USAR O FRAMEWORK --->
+
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
