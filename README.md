@@ -1,6 +1,7 @@
 
 # Projeto Revvista Nativva
-## Se trata de um projeto desenvolvido com ajuda de um curso da Udemy ministrado por Renam Martins, com a finalidade de praticar o uso de estilos e a criação de páginas com reactNative
+## Este projeto é fruto de um estudo, acompanhando uma das lives da Rocketseat, através dele é possível tirar uma base boa de como trabalhar com Mapas e estender essa base para outras atividades, são inúmeras as possibilidades e o melhor de tudo é que é tudo nativo tanto para Ios quando para Android.
+
 
 
 
