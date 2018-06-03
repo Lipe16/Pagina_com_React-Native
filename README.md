@@ -1,9 +1,6 @@
 
 # Projeto Revvista Nativva
-## Este projeto é fruto de um estudo, acompanhando uma das lives da Rocketseat, através dele é possível tirar uma base boa de como trabalhar com Mapas e estender essa base para outras atividades, são inúmeras as possibilidades e o melhor de tudo é que é tudo nativo tanto para Ios quando para Android.
-
-
-
+## Se trata de um projeto desenvolvido com ajuda de um curso da Udemy ministrado por Renam Martins, com a finalidade de praticar o uso de estilos e a criação de páginas com reactNative
 
 
 
@@ -11,22 +8,21 @@
 
 
 ### ilustração 01
-![react](https://image.ibb.co/c31QOJ/ilustracao01.png)
+![react](https://image.ibb.co/iuAZTJ/ilustracao01.png)
 
 
 ### ilustração 02
-![react](https://image.ibb.co/idu1xd/ilustracao02.png)
+![react](https://image.ibb.co/npWxhd/ilustracao02.png)
 
 
 ### ilustração 03
-![react](https://image.ibb.co/k1eqqy/Codigo_Ilustracao.png)
+![react](https://image.ibb.co/bEU6ay/ilustracao03.png)
 
 
 
 
 
 ## INSTRUÇÕES  OFICIAIS DE COMO USAR O FRAMEWORK --->
-
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
